@@ -1,5 +1,6 @@
 /.idea
 /node_modules
-/uploads/*.jpg
-/uploads/*.png
-/uploads/*.jpeg
+/uploads
+!/uploads/qrcode_for_interview.jpg
+!/uploads/qrcode_for_war.jpg
+
